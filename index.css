@@ -6,7 +6,7 @@ body {
     width: 250px;
     height: 500px;
     background-color: chocolate;
-    margin: auto;
+    margin: 100px 20px 50px 20px;
     border-radius: 6px;
 }
 .normal {
